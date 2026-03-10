@@ -1,0 +1,132 @@
+[02:35:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[02:35:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:35:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:35:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:35:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:35:31] [ServerMain/INFO]: Loaded 1290 recipes
+[02:35:31] [ServerMain/INFO]: Loaded 1399 advancements
+[02:35:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:35:31] [Server thread/INFO]: Loading properties
+[02:35:31] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:35:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:35:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:35:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:35:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:35:33] [Server thread/INFO]: Default game type: SURVIVAL
+[02:35:33] [Server thread/INFO]: Generating keypair
+[02:35:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:35:33] [Server thread/INFO]: Using epoll channel type
+[02:35:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:35:33] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[02:35:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:35:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:35:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:35:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:35:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:35:33] [Server thread/INFO]: Preparing level "world"
+[02:35:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:35:35] [Server thread/INFO]: Time elapsed: 1936 ms
+[02:35:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:35:36] [Server thread/INFO]: Time elapsed: 210 ms
+[02:35:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:35:36] [Server thread/INFO]: Time elapsed: 127 ms
+[02:35:36] [Server thread/INFO]: [spark] Starting background profiler...
+[02:35:36] [Server thread/INFO]: Done preparing level "world" (2.952s)
+[02:35:36] [Server thread/INFO]: Running delayed init tasks
+[02:35:36] [Server thread/INFO]: Done (12.543s)! For help, type "help"
+[02:35:36] [Server thread/INFO]: Timings Reset
+[02:36:47] [User Authenticator #0/INFO]: UUID of player _Sebas23_ is 56db795e-de34-37cb-8b8b-bb1865b429fa
+[02:36:51] [Server thread/INFO]: _Sebas23_ joined the game
+[02:36:51] [Server thread/INFO]: _Sebas23_[/192.168.192.195:13871] logged in with entity id 20 at ([world]-798.7312656977812, 73.0, -2544.4644667112616)
+[02:40:59] [User Authenticator #1/INFO]: UUID of player chepaboy is 833b1f4f-9263-37c3-8fee-a3f0add6ecac
+[02:41:00] [Server thread/INFO]: chepaboy joined the game
+[02:41:00] [Server thread/INFO]: chepaboy[/192.168.192.161:50404] logged in with entity id 773 at ([world]-765.6354618299763, 74.0, -2493.452714705693)
+[02:53:30] [Server thread/INFO]: Villager Villager['Villager'/57, uuid='ebf8d4a5-da64-4113-90df-2a5650e55747', l='ServerLevel[world]', x=-763.08, y=69.00, z=-2533.70, cpos=[-48, -159], tl=34103, v=true] died, message: 'Villager was slain by Zombie'
+[02:53:37] [Server thread/INFO]: Villager Villager['Villager'/47, uuid='95cbaef9-34da-4da9-b312-6e1f94171e03', l='ServerLevel[world]', x=-762.91, y=69.00, z=-2532.26, cpos=[-48, -159], tl=125387, v=true] died, message: 'Villager was slain by Zombie'
+[02:53:40] [Server thread/INFO]: Villager Villager['Villager'/1439, uuid='02d623e4-f5b1-4eeb-b954-985d3d0bd19f', l='ServerLevel[world]', x=-764.45, y=69.00, z=-2533.05, cpos=[-48, -159], tl=9205, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:44] [Server thread/INFO]: Villager Villager['Villager'/55, uuid='fafd1ac0-a491-4723-9665-acb3fffebfb8', l='ServerLevel[world]', x=-764.20, y=69.00, z=-2533.65, cpos=[-48, -159], tl=48401, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:44] [Server thread/INFO]: Villager Villager['Villager'/442, uuid='56dc3ee8-289e-4a66-a331-db088b176d00', l='ServerLevel[world]', x=-762.15, y=69.33, z=-2533.85, cpos=[-48, -159], tl=18192, v=true] died, message: 'Villager was slain by Zombie'
+[02:53:51] [Server thread/INFO]: Villager Villager['Villager'/45, uuid='faac156a-1d53-42df-93d5-a86d18af844f', l='ServerLevel[world]', x=-763.40, y=69.00, z=-2531.19, cpos=[-48, -159], tl=126094, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:51] [Server thread/INFO]: Villager Villager['Villager'/49, uuid='6a681ea3-202d-41ae-8750-ba15307aa90f', l='ServerLevel[world]', x=-763.86, y=69.00, z=-2533.70, cpos=[-48, -159], tl=102315, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:52] [Server thread/INFO]: Villager Villager['Villager'/48, uuid='9f6b03e2-cbd2-40a5-b999-c914095d1826', l='ServerLevel[world]', x=-763.77, y=69.00, z=-2531.50, cpos=[-48, -159], tl=109831, v=true] died, message: 'Villager was slain by Zombie'
+[02:53:53] [Server thread/INFO]: Villager Villager['Villager'/51, uuid='136f9a10-e38a-4a37-9eed-beca86d27ed4', l='ServerLevel[world]', x=-763.30, y=69.00, z=-2534.70, cpos=[-48, -159], tl=73691, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:57] [Server thread/INFO]: Villager Villager['Villager'/26, uuid='643e1b6c-b77b-4182-b67b-e78343a6e1c9', l='ServerLevel[world]', x=-762.15, y=69.00, z=-2532.79, cpos=[-48, -159], tl=21037, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:58] [Server thread/INFO]: Villager Villager['Villager'/50, uuid='b4d42ac8-efa4-42c0-b19a-b4902214e738', l='ServerLevel[world]', x=-763.20, y=69.54, z=-2533.70, cpos=[-48, -159], tl=102398, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:58] [Server thread/INFO]: Villager Villager['Villager'/52, uuid='af8895a6-04fb-4fac-abb1-8ecc60567f44', l='ServerLevel[world]', x=-764.39, y=69.00, z=-2532.30, cpos=[-48, -159], tl=73593, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:58] [Server thread/INFO]: Villager Villager['Villager'/553, uuid='f63051d9-1905-496e-b3fa-aecec972fff3', l='ServerLevel[world]', x=-762.15, y=69.58, z=-2532.89, cpos=[-48, -159], tl=17756, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:59] [Server thread/INFO]: Villager Villager['Villager'/29, uuid='bcf3afed-4ec9-40c7-b496-71a897bcfb60', l='ServerLevel[world]', x=-762.15, y=69.64, z=-2533.85, cpos=[-48, -159], tl=21034, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:53:59] [Server thread/INFO]: Villager Villager['Villager'/53, uuid='c3755a72-59e2-4094-ac3b-3fa9bd7c9cd7', l='ServerLevel[world]', x=-763.98, y=69.00, z=-2532.20, cpos=[-48, -159], tl=73919, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:54:00] [Server thread/INFO]: Villager Villager['Villager'/46, uuid='6534734b-6a96-4fff-9b9c-d0b61f84756c', l='ServerLevel[world]', x=-762.51, y=69.00, z=-2532.16, cpos=[-48, -159], tl=126360, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:54:02] [Server thread/INFO]: Villager Villager['Villager'/56, uuid='221e27d2-eb19-4e90-923e-6b12e3a77820', l='ServerLevel[world]', x=-764.70, y=69.00, z=-2531.40, cpos=[-48, -159], tl=34537, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:54:03] [Server thread/INFO]: Villager Villager['Villager'/54, uuid='c0bcf63c-43f0-47a0-865a-d2dfd16b3e8d', l='ServerLevel[world]', x=-763.36, y=69.00, z=-2531.38, cpos=[-48, -159], tl=60826, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:54:05] [Server thread/INFO]: Villager Villager['Villager'/58, uuid='1b19f10f-442b-4d8b-9915-51badc6fc220', l='ServerLevel[world]', x=-763.31, y=69.00, z=-2530.37, cpos=[-48, -159], tl=28464, v=true] died, message: 'Villager was slain by Zombie Villager'
+[03:08:17] [Async Chat Thread - #1/INFO]: [Not Secure] <_Sebas23_> ia vanos a sakar ia end updeite
+[03:08:36] [Async Chat Thread - #1/INFO]: [Not Secure] <_Sebas23_> no nos hagas ñada por fabor
+[03:08:43] [Async Chat Thread - #1/INFO]: [Not Secure] <_Sebas23_> asi me gusta.
+[03:14:06] [Server thread/INFO]: chepaboy was slain by Zombie
+[03:20:12] [Server thread/INFO]: Villager Villager['Villager'/5224, uuid='39b24451-163d-4b5d-a084-d842bd8b741d', l='ServerLevel[world]', x=-775.53, y=69.00, z=-2544.51, cpos=[-49, -160], tl=1925, v=true] died, message: 'Villager was slain by chepaboy'
+[03:30:23] [Async Chat Thread - #2/INFO]: [Not Secure] <_Sebas23_> KHE
+[03:40:44] [Async Chat Thread - #4/INFO]: [Not Secure] <_Sebas23_> Real,msw
+[03:43:41] [Async Chat Thread - #6/INFO]: [Not Secure] <_Sebas23_> SHIFT
+[03:43:45] [Async Chat Thread - #6/INFO]: [Not Secure] <_Sebas23_> EL PUTO SHIFT
+[03:43:58] [Async Chat Thread - #6/INFO]: [Not Secure] <chepaboy> chip
+[03:44:02] [Async Chat Thread - #6/INFO]: [Not Secure] <chepaboy> chi
+[03:44:07] [Server thread/INFO]: Villager Villager['Villager'/21, uuid='f2164f72-25d3-49d5-8166-f8fb6a3c34c1', l='ServerLevel[world]', x=-793.61, y=84.04, z=-2555.10, cpos=[-50, -160], tl=636653, v=true] died, message: 'Villager was slain by _Sebas23_'
+[03:48:10] [Server thread/INFO]: Villager Villager['Villager'/5246, uuid='573b3f05-80b5-4073-b19e-2eba096e16d2', l='ServerLevel[world]', x=-762.78, y=69.00, z=-2533.03, cpos=[-48, -159], tl=35266, v=true] died, message: 'Villager was shot by Pillager'
+[03:48:12] [Server thread/INFO]: Villager Villager['Villager'/6214, uuid='b1d892eb-ec15-4fc8-8df1-d7c602b97aae', l='ServerLevel[world]', x=-762.81, y=69.00, z=-2533.62, cpos=[-48, -159], tl=26650, v=true] died, message: 'Villager was shot by Pillager'
+[03:48:15] [Server thread/INFO]: Villager Villager['Villager'/6218, uuid='e5382903-0f01-4f33-a770-56d69ee78c1c', l='ServerLevel[world]', x=-762.38, y=69.49, z=-2532.99, cpos=[-48, -159], tl=26697, v=true] died, message: 'Villager was shot by Pillager'
+[03:49:40] [Async Chat Thread - #8/INFO]: [Not Secure] <chepaboy> 67
+[03:49:41] [Async Chat Thread - #8/INFO]: [Not Secure] <chepaboy> 67
+[03:49:41] [Async Chat Thread - #8/INFO]: [Not Secure] <chepaboy> 676
+[03:49:41] [Async Chat Thread - #8/INFO]: [Not Secure] <chepaboy> 76
+[03:49:43] [Async Chat Thread - #8/INFO]: [Not Secure] <_Sebas23_> WHERE?
+[03:49:54] [Async Chat Thread - #8/INFO]: [Not Secure] <chepaboy> who is pennis]?
+[03:54:45] [Server thread/INFO]: Villager Villager['Fisherman'/3835, uuid='c6b65c1c-923e-46e1-bc34-88cb5096a255', l='ServerLevel[world]', x=-784.20, y=69.56, z=-2617.67, cpos=[-50, -164], tl=58487, v=true] died, message: 'Fisherman was shot by Pillager'
+[03:54:54] [Server thread/INFO]: Villager Villager['Fisherman'/3837, uuid='fde3b614-f6e3-434f-865d-afea665c722c', l='ServerLevel[world]', x=-783.64, y=69.56, z=-2616.79, cpos=[-49, -164], tl=58632, v=true] died, message: 'Fisherman was shot by Pillager'
+[03:55:12] [Server thread/INFO]: Villager Villager['Fisherman'/3830, uuid='5d9366cb-1187-4bba-90c3-8aca89ea627b', l='ServerLevel[world]', x=-783.43, y=69.56, z=-2617.84, cpos=[-49, -164], tl=59044, v=true] died, message: 'Fisherman was shot by Pillager'
+[03:57:17] [Server thread/INFO]: chepaboy has made the advancement [Who's the Pillager Now?]
+[03:59:18] [Async Chat Thread - #10/INFO]: [Not Secure] <_Sebas23_> pon la llamada
+[03:59:26] [Async Chat Thread - #10/INFO]: [Not Secure] <chepaboy> EL PENE TE VOT A PONER
+[04:00:00] [Server thread/INFO]: chepaboy was slain by Vindicator
+[04:00:06] [Server thread/INFO]: chepaboy was slain by Vindicator
+[04:00:09] [Server thread/INFO]: chepaboy was slain by Vex
+[04:00:15] [Server thread/INFO]: chepaboy was slain by Vindicator
+[04:00:18] [Server thread/INFO]: chepaboy was slain by Vindicator
+[04:00:24] [Server thread/INFO]: chepaboy was slain by Vindicator
+[04:06:14] [Async Chat Thread - #12/INFO]: [Not Secure] <_Sebas23_> EoO
+[04:08:07] [Async Chat Thread - #14/INFO]: [Not Secure] <_Sebas23_> Minecraft enchaments order
+[04:12:53] [Async Chat Thread - #16/INFO]: [Not Secure] <_Sebas23_> Emely
+[04:15:35] [Async Chat Thread - #18/INFO]: [Not Secure] <_Sebas23_> SUENA ESPECIALL
+[04:16:25] [Async Chat Thread - #18/INFO]: [Not Secure] <_Sebas23_> EMELY
+[04:24:14] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[04:24:14] [Server thread/INFO]: chepaboy left the game
+[04:24:22] [User Authenticator #2/INFO]: UUID of player chepaboy is 833b1f4f-9263-37c3-8fee-a3f0add6ecac
+[04:24:23] [Server thread/INFO]: chepaboy joined the game
+[04:24:23] [Server thread/INFO]: chepaboy[/192.168.192.161:55542] logged in with entity id 19305 at ([world]-711.541717638431, 69.0, -2621.5540056922036)
+[04:32:18] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[04:32:18] [Server thread/INFO]: chepaboy left the game
+[04:33:46] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:33:46] [Server thread/INFO]: _Sebas23_ left the game
+[04:33:56] [Server thread/INFO]: Stopping the server
+[04:33:56] [Server thread/INFO]: Stopping server
+[04:33:56] [Server thread/INFO]: Saving players
+[04:33:56] [Server thread/INFO]: Saving worlds
+[04:33:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[04:33:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:33:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:33:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
